@@ -5,7 +5,7 @@
 int main() {
     float raio, area, perimetro;
 
-    printf("Digite o raio do círculo: ");
+    printf("Digite o raio do circulo: ");
     scanf("%f", &raio);
 
     // Calcula a área do círculo (A = π * r²)
@@ -14,8 +14,8 @@ int main() {
     // Calcula o perímetro do círculo (P = 2 * π * r)
     perimetro = 2 * PI * raio;
 
-    printf("Área do círculo: %.2f\n", area);
-    printf("Perimetro do círculo: %.2f\n", perimetro);
+    printf("Area do circulo: %.2f\n", area);
+    printf("Perimetro do circulo: %.2f\n", perimetro);
 
 
     return 0;

@@ -8,7 +8,7 @@ int main(){
     
      C = (F-32) * 5 / 9;
      
-    printf("A temperatura em Celsius é de: %.2f\n", C);
+    printf("A temperatura em Celsius e de: %.2f\n", C);
 
     return 0;
 }
